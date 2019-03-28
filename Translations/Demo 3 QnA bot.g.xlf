@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Demo 3 QnA bot">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1814561284 - Field 3475288728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table QnA Bot Setup - Field Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1814561284 - Field 1542547238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bot URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table QnA Bot Setup - Field Bot URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1814561284 - Field 609783086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Knowledgebase ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table QnA Bot Setup - Field Knowledgebase ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1814561284 - Field 1290886056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endpoint Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table QnA Bot Setup - Field EndpointKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1387199096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demo 3 QnA Bot Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page QnA BotPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4113462506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demo 3 QnA Bot Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bot Setup - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
